@@ -14,10 +14,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/lucasclemerson">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/lucasclemerson">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white" />        
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </div>
