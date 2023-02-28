@@ -7,7 +7,7 @@
 
 <div>
   <div>
-    <h3>Redes sociais</h3>
+    <h3>Social media</h3>
   </div>
   
   <a href="https://www.linkedin.com/in/lucas-oliveira-1ab55a22b">
