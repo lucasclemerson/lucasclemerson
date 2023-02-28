@@ -1,8 +1,6 @@
-###                             Hi there, I am Clemerson                            
-<p>+------------------------------------------------------------------------------------+</p>
-<p>| Integrated technician in basic informatics STR_TO_DATE("2021","%Y" )               |</p>
-<p>+------------------------------------------------------------------------------------+</p>
-<p>| I'm a passionate Back End developer and I live in Brazil.                          |</p>
-<p>+------------------------------------------------------------------------------------+</p>
-<p>| I love exploring new horizons.                                                     |</p>
-<p>+------------------------------------------------------------------------------------+</p>
+<h1 align="center">Hi there, I am Clemerson</h1>                            
+<ul>
+  <li> Integrated technician in basic informatics &copy2021</li>
+  <li> I'm a passionate Back End developer and I live in Brazil.</li>
+  <li> I love exploring new horizons.</li>
+</ul>
