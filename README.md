@@ -10,7 +10,7 @@
     <h3>Tecnologias</h3>
   </div>
 
-  <p align='center'>
+  <p>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucasclemerson&show_icons=true&count_private=true&theme=dark" width="350"></a>
   </p>
 
