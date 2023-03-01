@@ -7,6 +7,14 @@
 
 <div>
   <div>
+    <h3>Tecnologias</h3>
+  </div>
+
+  <p align='center'>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucasclemerson&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  </p>
+
+  <div>
     <h3>Social media</h3>
   </div>
   
@@ -17,7 +25,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a target="_blank" href="https://facebook.com/lucasclemerson">
-    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />        
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>        
   </a>&nbsp;&nbsp;
-  
 </div>
+
