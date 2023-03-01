@@ -28,10 +28,11 @@
   </div>
   <img src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-darkgreen?logo=DJANGO&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codeigniter-red?logo=CODEIGNITER&logoColor=white" />
   <img src="https://img.shields.io/badge/Jquery-skyblue?logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeigniter-red?logo=CODEIGNITER&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=Bootstrap&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Tailwindcss-skyblue?logo=tailwindcss&logoColor=white" />
+  
   
   <div>
     <h3>Status</h3>
