@@ -7,7 +7,30 @@
 
 <div>
   <div>
-    <h3>Tecnologias</h3>
+    <h3>technologies</h3>
+  </div>  
+  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/android studio-green?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  
+  <div>
+    <h3>Framwork's
+  </div>
+  <img src="https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CODEIGNITER-red?style=for-the-badge&logo=CODEIGNITER&logoColor=white" />
+  <img src="https://img.shields.io/badge/DJANGO-success?style=for-the-badge&logo=DJANGO&logoColor=white" />
+ 
+  <div>
+    <h3>Server side
+  </div>
+  <img src="https://img.shields.io/badge/node.js-success?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/composer-yellow?style=for-the-badge&logo=composer&logoColor=white" />
+
+  
+  <div>
+    <h3>Status</h3>
   </div>
 
   <p>
