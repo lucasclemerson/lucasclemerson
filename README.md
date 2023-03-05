@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/arduino-19949A?logo=arduino&logoColor=white" />
   
   <div>
-    <h3>Framwork's
+    <h3>Framework's
   </div>
   <img src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-darkgreen?logo=DJANGO&logoColor=white" />
