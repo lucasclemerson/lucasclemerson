@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Composer-yellow?logo=composer&logoColor=white" />
   <img src="https://img.shields.io/badge/C-5766B6?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-6092C7?logo=c++&logoColor=white" />
-  <img src="https://img.shields.io/badge/nbc-9260C7?logo=nbc&logoColor=white" />
+  <img src="https://img.shields.io/badge/NXC-9260C7?logo=nxc&logoColor=white" />
   <img src="https://img.shields.io/badge/arduino-19949A?logo=arduino&logoColor=white" />
   
   <div>
