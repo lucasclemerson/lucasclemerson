@@ -38,16 +38,8 @@
   <div>
     <h3>Status</h3>
   </div>
-
-<<<<<<< HEAD
-  <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasclemerson&show_icons=true&count_private=true&theme=dark" width="350">
-=======
-  <p>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucasclemerson&show_icons=true&count_private=true&theme=dark" width="350"></a>
->>>>>>> 7f64bcd30d4c97f57878b7d775704656dce9c930
-  </p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasclemerson&show_icons=true&count_private=true&theme=light" width="350">
+  
   <div>
     <h3>Social media</h3>
   </div>
