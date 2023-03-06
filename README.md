@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-49E78B?logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-7175AA?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-E84D31?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-success?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-blue?logo=Mysql&logoColor=white" />
@@ -39,7 +40,7 @@
     <h3>Status</h3>
   </div>
   <img src="https://github-readme-stats.vercel.app/api?username=lucasclemerson&show_icons=true&count_private=true&theme=light" width="350">
-  
+
   <div>
     <h3>Social media</h3>
   </div>
