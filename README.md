@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/PHP-7175AA?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/git-E84D31?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/glassfish-skyblue?logo=glassfish&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-success?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-blue?logo=Mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Composer-yellow?logo=composer&logoColor=white" />
