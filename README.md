@@ -40,7 +40,7 @@
   <div>
     <h3>Status</h3>
   </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasclemerson&show_icons=true&count_private=true&theme=light" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasclemerson&show_icons=true&count_private=true&theme=dark" width="350">
 
   <div>
     <h3>Social media</h3>
