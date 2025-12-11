@@ -36,12 +36,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=Bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwindcss-skyblue?logo=tailwindcss&logoColor=white" />
   
-  
-  <div>
-    <h3>Status</h3>
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasclemerson&show_icons=true&count_private=true&theme=dark" width="350">
-
   <div>
     <h3>Social media</h3>
   </div>
