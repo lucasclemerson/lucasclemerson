@@ -1,53 +1,64 @@
-<h1 align="center">Hi there, I am Clemerson</h1>                            
+<h1 align="center">👋 Hi, I'm Clemerson</h1>
+
+<p align="center">
+  Back-End Developer • BI & Programming • Brazil 🇧🇷
+</p>
+
+---
+
+### 🚀 About Me
 <ul>
-  <li> Integrated technician in basic informatics &copy2021</li>
-  <li> I'm a passionate Back End developer and I live in Brazil.</li>
-  <li> I love exploring new horizons.</li>
+  <li>🎓 Integrated Technician in Basic Informatics (2021)</li>
+  <li>💻 Passionate Back-End Developer</li>
+  <li>🌎 Always exploring new technologies and horizons</li>
 </ul>
 
-<div>
-  <div>
-    <h3>technologies</h3>
-  </div>  
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=JAVASCRIPT&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android Studio-49E78B?logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-7175AA?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-E84D31?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/glassfish-skyblue?logo=glassfish&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-success?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-blue?logo=Mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Composer-yellow?logo=composer&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-5766B6?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-6092C7?logo=c++&logoColor=white" />
-  <img src="https://img.shields.io/badge/NXC-9260C7?logo=nxc&logoColor=white" />
-  <img src="https://img.shields.io/badge/arduino-19949A?logo=arduino&logoColor=white" />
-  
-  <div>
-    <h3>Framework's
-  </div>
-  <img src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-darkgreen?logo=DJANGO&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jquery-skyblue?logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codeigniter-red?logo=CODEIGNITER&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=Bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwindcss-skyblue?logo=tailwindcss&logoColor=white" />
-  
-  <div>
-    <h3>Social media</h3>
-  </div>
-  
-  <a target="_blank" href="https://www.linkedin.com/in/lucas-oliveira-1ab55a22b">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a target="_blank" href="https://instagram.com/lucasclemerson">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a target="_blank" href="https://facebook.com/lucasclemerson">
-    <img src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white"/>        
-  </a>&nbsp;&nbsp;
-</div>
+---
 
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
+</p>
+
+---
+
+### 🧩 Frameworks & Libraries
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-oliveira-1ab55a22b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/lucasclemerson" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/lucasclemerson" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+  </a>
+</p>
