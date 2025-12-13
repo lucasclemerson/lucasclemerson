@@ -64,8 +64,6 @@
 </p>
 
 <p align="start">
-
-  <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasclemerson&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasclemerson&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasclemerson&theme=dracula" />
