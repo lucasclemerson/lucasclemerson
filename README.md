@@ -17,7 +17,7 @@
 
 ### 🛠️ Technologies & Tools
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -36,7 +36,7 @@
 
 ### 🧩 Frameworks & Libraries
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white" />
@@ -49,7 +49,7 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/lucas-oliveira-1ab55a22b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
@@ -62,3 +62,8 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
   </a>
 </p>
+
+<p align="start">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasclemerson&theme=gotham" />
+</p>
+
